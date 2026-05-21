@@ -1,0 +1,11 @@
+# Virtual environment
+venv
+
+# Raw data
+data/raw/amazon_ecommerce_1M.csv
+
+# Python cache
+__pycache__
+
+# Jupyter checkpoints
+.ipynb_checkpoints/git 
