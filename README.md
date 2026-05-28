@@ -154,4 +154,4 @@ While the models achieved moderate predictive performance, the project highlight
 
 **Selasey Dick Junior Gbeddy**
 
-Aspiring Supply Chain & Logistics Analyst | Combining Data Analytics with Opeartional Intelligence
+Aspiring Supply Chain & Logistics Analyst | Combining Data Analytics with Operational Intelligence
