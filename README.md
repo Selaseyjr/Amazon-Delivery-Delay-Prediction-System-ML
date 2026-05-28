@@ -4,7 +4,7 @@ A beginner-friendly Machine Learning project focused on predicting e-commerce de
 
 This project applies supervised learning techniques to explore how operational, pricing, and customer-related variables influence delivery outcomes in a logistics environment.
 
-![Delivery Status Distribution](visuals/delivery status distribution.png)
+![Delivery Status Distribution](visuals/delivery_status_distribution.png)
 
 ---
 ## 📌 Project Objective
