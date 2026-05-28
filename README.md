@@ -4,8 +4,9 @@ A beginner-friendly Machine Learning project focused on predicting e-commerce de
 
 This project applies supervised learning techniques to explore how operational, pricing, and customer-related variables influence delivery outcomes in a logistics environment.
 
----
+![Delivery Status Distribution](visuals/delivery status distribution.png)
 
+---
 ## 📌 Project Objective
 
 The goal of this project is to predict whether an order delivery will be delayed or not using Machine Learning classification models.
@@ -20,7 +21,7 @@ The project also explores:
 
 ## 📂 Dataset
 
-- Source: Amazon E-Commerce Dataset [Kaggle]("https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce")
+- Source: Amazon E-Commerce Dataset [Find Dataset Here](https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce)
 - Original Size: ~1 Million Rows
 - Working Sample: 20,000 Rows
 - Features: 20+ columns including:
@@ -52,6 +53,8 @@ Created custom features such as:
 Implemented:
 - K-Nearest Neighbors (KNN)
 - Random Forest Classifier
+
+![KNN Accuracy Graph](visuals/knn_accuracy_graph.png)
 
 ### 4️⃣ Model Tuning
 - Hyperparameter tuning using multiple K-values
@@ -89,6 +92,8 @@ Used:
 ---
 
 ## 📈 Feature Importance Insights
+
+![Feature Engineering Graph](visuals/feature_importance_chart.png)
 
 The Random Forest model identified the following as the most influential features:
 
