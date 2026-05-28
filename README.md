@@ -9,7 +9,7 @@ This project applies supervised learning techniques to explore how operational, 
 ---
 ## 📌 Project Objective
 
-The goal of this project is to predict whether an order delivery will be delayed or not using Machine Learning classification models.
+The goal of this project is to predict whether an order delivery will be delayed or not using Machine Learning classification models, where 0= undelayed deliveries and 1= delayed deliveries
 
 The project also explores:
 - feature engineering
